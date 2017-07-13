@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1499541661 source:/home/luca/Projetos_CPP/Ponteiros/funcoes.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"funcoes.hpp"
+
+1499541867 /home/luca/Projetos_CPP/Ponteiros/funcoes.hpp
+	<string.h>
+
+1499541698 source:/home/luca/Projetos_CPP/Ponteiros/main.cpp
+	<iostream>
+	<stdio.h>
+	"funcoes.hpp"
+
+1499539424 /home/luca/Projetos_CPP/Ponteiros/funcoes.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

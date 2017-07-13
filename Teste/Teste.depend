@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1499824256 source:/home/luca/Projetos_CPP/Teste/main.cpp
+	"t.hpp"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1499824707 source:/home/luca/Projetos_CPP/Teste/t.cpp
+	"t.hpp"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1499824281 /home/luca/Projetos_CPP/Teste/t.hpp
+	<string>
+
